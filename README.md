@@ -1,8 +1,9 @@
-# HelpNearby
+# HelpNearby Project
 
 HelpNearby is a local university project for requesting and offering community help in Muscat. Run it on your own machine. It is not set up for hosting or deployment.
 
 ## Requirements
+
 
 - Node.js
 - The shared `server/.env` file
